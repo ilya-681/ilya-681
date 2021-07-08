@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/)
 
-- 📫 How to reach me **ilya-681@ya.ru**
+<!--- - 📫 How to reach me **ilya-681@ya.ru** --->
 
 - 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1CjWMDgJx1CwlClPxYrOAgQvfcI_WQWW5/view?usp=sharing)
 
