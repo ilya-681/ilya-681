@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ilya-ignatov-233584117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilya-ignatov-233584117" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007151882787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007151882787" height="30" width="40" /></a>
+<!---  <a href="https://www.facebook.com/profile.php?id=100007151882787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007151882787" height="30" width="40" /></a> --->
 <a href="https://t.me/ilyaign" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png?1" alt="https://t.me/ilyaign" height="30" width="30" /></a>
 
 </p>
